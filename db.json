@@ -2,7 +2,7 @@
   "tabledata":{
   "data": [
     [ 
-      "1",
+      1,
       "Tiger Nixon",
       "System Architect",
       "Edinburgh",
@@ -11,7 +11,7 @@
       "$320,800"
     ],
     [
-      "2",
+      2,
       "Garrett Winters",
       "Accountant",
       "Tokyo",
@@ -20,7 +20,7 @@
       "$170,750"
     ],
     [
-      "3",
+      3,
       "Ashton Cox",
       "Junior Technical Author",
       "San Francisco",
@@ -29,7 +29,7 @@
       "$86,000"
     ],
     [
-      "4",
+      4,
       "Cedric Kelly",
       "Senior Javascript Developer",
       "Edinburgh",
@@ -38,7 +38,7 @@
       "$433,060"
     ],
     [
-      "5",
+      5,
       "Airi Satou",
       "Accountant",
       "Tokyo",
@@ -47,7 +47,7 @@
       "$162,700"
     ],
     [
-      "6",
+      6,
       "Brielle Williamson",
       "Integration Specialist",
       "New York",
@@ -56,7 +56,7 @@
       "$372,000"
     ],
     [
-      "7",
+      7,
       "Herrod Chandler",
       "Sales Assistant",
       "San Francisco",
@@ -65,7 +65,7 @@
       "$137,500"
     ],
     [
-      "8",
+      8,
       "Rhona Davidson",
       "Integration Specialist",
       "Tokyo",
@@ -74,7 +74,7 @@
       "$327,900"
     ],
     [
-      "9",
+      9,
       "Colleen Hurst",
       "Javascript Developer",
       "San Francisco",
@@ -83,7 +83,7 @@
       "$205,500"
     ],
     [
-      "10",
+      10,
       "Sonya Frost",
       "Software Engineer",
       "Edinburgh",
@@ -92,7 +92,7 @@
       "$103,600"
     ],
     [
-      "11",
+      11,
       "Jena Gaines",
       "Office Manager",
       "London",
@@ -101,7 +101,7 @@
       "$90,560"
     ],
     [
-      "12",
+      12,
       "Quinn Flynn",
       "Support Lead",
       "Edinburgh",
@@ -110,7 +110,7 @@
       "$342,000"
     ],
     [
-      "13",
+      13,
       "Charde Marshall",
       "Regional Director",
       "San Francisco",
@@ -119,7 +119,7 @@
       "$470,600"
     ],
     [
-      "14",
+      14,
       "Haley Kennedy",
       "Senior Marketing Designer",
       "London",
@@ -128,7 +128,7 @@
       "$313,500"
     ],
     [
-      "15",
+      15,
       "Tatyana Fitzpatrick",
       "Regional Director",
       "London",
@@ -137,7 +137,7 @@
       "$385,750"
     ],
     [
-      "16",
+      16,
       "Michael Silva",
       "Marketing Designer",
       "London",
@@ -146,7 +146,7 @@
       "$198,500"
     ],
     [
-      "17",
+      17,
       "Paul Byrd",
       "Chief Financial Officer (CFO)",
       "New York",
@@ -155,7 +155,7 @@
       "$725,000"
     ],
     [
-      "18",
+      18,
       "Gloria Little",
       "Systems Administrator",
       "New York",
@@ -164,7 +164,7 @@
       "$237,500"
     ],
     [
-      "19",
+      19,
       "Bradley Greer",
       "Software Engineer",
       "London",
@@ -173,7 +173,7 @@
       "$132,000"
     ],
     [
-      "20",
+      20,
       "Dai Rios",
       "Personnel Lead",
       "Edinburgh",
